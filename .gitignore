@@ -1,3 +1,6 @@
 catboost_info/
 __pycache__/
 *.pyc
+submission.csv
+optimized_submission.csv
+predictions.csv
